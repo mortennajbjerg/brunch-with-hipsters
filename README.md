@@ -25,7 +25,7 @@ First install [scaffolt](https://github.com/paulmillr/scaffolt#readme):
 
     npm install -g scaffolt
 
-This fork includes some generators for Marionette as well. Right now the supported scaffolt commands are:
+Aside from the generators from Brunch With Hipsters this fork also includes generators for Marionette. Right now the supported scaffolt commands are:
 
 scaffolt layout [name]
 scaffolt itemview [name]
