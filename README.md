@@ -6,18 +6,7 @@ Read the documentation for Brunch With Hipsters here: [https://github.com/elving
 
 ## Getting started
 
-    brunch new <appname> --skeleton git@github.com:mortennajbjerg/brunch-with-hipsters.git
-    brunch w -s
-
-or
-
-    $ git clone git@github.com:mortennajbjerg/brunch-with-hipsters.git
-    $ npm install
-    $ brunch w -s
-
-or
-
-    $ git clone git@github.com:mortennajbjerg/brunch-with-hipsters.git && npm install && brunch w -s
+    brunch new <appname> https://github.com/mortennajbjerg/brunch-with-hipsters
 
 ## Generators
 
