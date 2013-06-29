@@ -1,0 +1,8 @@
+{
+    "files": [{
+        "from": "collectionview_test.coffee.hbs",
+        "to": "test/views/{{name}}_test.coffee"
+    }],
+
+    "dependencies": []
+}
