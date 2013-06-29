@@ -1,7 +1,5 @@
 # Brunch with Marionette Hipsters
 
-![image](http://www.latimes.com/media/photo/2011-07/63171841.jpg)
-
 Brunch with Marionette Hipsters is a fork of the excellent Brunch With Hipsters&trade; skeleton for [Brunch](http://brunch.io/).
 This fork includes [Marionette](https://github.com/marionettejs/backbone.marionette) to make it even more awsome.
 Read the documentation for Brunch With Hipsters here: [https://github.com/elving/brunch-with-hipsters](https://github.com/elving/brunch-with-hipsters).
